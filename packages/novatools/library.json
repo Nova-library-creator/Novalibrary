@@ -1,0 +1,11 @@
+{
+  "name": "novatools",
+  "version": "1.0.0",
+  "description": "Стандартная библиотека инструментов Nova",
+  "author": "Nova Developer",
+  "dependencies": {},
+  "modules": [
+    "math",
+    "text"
+  ]
+}
