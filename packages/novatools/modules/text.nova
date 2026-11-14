@@ -1,0 +1,17 @@
+def upper(text):
+    return text.upper()
+
+def lower(text):
+    return text.lower()
+
+def length(text):
+    return len(text)
+
+def reverse(text):
+    return text[::-1]
+
+def contains(text, word):
+    return word in text
+
+def replace(text, old, new):
+    return text.replace(old, new)
