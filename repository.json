@@ -1,1 +1,13 @@
-
+{
+  "name": "Nova Library",
+  "version": "1.0.0",
+  "packages": [
+    {
+      "name": "novatools",
+      "version": "1.0.0",
+      "description": "Стандартная библиотека Nova: математика и работа с текстом",
+      "archive": "https://github.com/Nova-library-creator/Novalibrary/archive/refs/heads/main.zip",
+      "path": "packages/novatools"
+    }
+  ]
+}
